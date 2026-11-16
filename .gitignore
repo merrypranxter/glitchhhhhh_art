@@ -1,0 +1,5 @@
+node_modules/
+dist/
+work/
+generated_images/
+.git-local/

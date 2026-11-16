@@ -1,0 +1,15 @@
+GLITCHHHHHH third-party notices
+
+Mediabunny 1.66.0 — Copyright Vanilagy and contributors.
+Unmodified library, used for WebCodecs video encoding and WebM muxing.
+License: Mozilla Public License 2.0 (MPL-2.0).
+License text: ./licenses/mediabunny-MPL-2.0.txt
+Corresponding source: https://github.com/Vanilagy/mediabunny/tree/v1.66.0
+Also available as the mediabunny npm package (which includes its src/ directory).
+
+DM Sans and Space Grotesk are bundled without modification under the SIL Open Font License 1.1.
+Their copyright and license texts are included in ./fonts/.
+
+React and React DOM — Meta Platforms, Inc. and affiliates — MIT.
+Lucide — Lucide contributors — ISC.
+Full notices are included in ./licenses/.
